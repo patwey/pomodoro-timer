@@ -87,7 +87,7 @@ end
 # customize timer:
 if $0 == __FILE__
   # Pomodoro.new(pomodoro length in minutes, break length in minutes)
-  pomodoro = Pomodoro.new(10, 5)
+  pomodoro = Pomodoro.new(25, 5)
   pomodoro.pom_msg = 'take a break' # set post-pomodoro message
   pomodoro.break_msg = 'back to work' # set post-break message
   pomodoro.start # start program
