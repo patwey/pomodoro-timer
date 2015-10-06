@@ -5,6 +5,7 @@ A simple pomodoro timer for the command line (currently OSX only).
 * install ruby
 
 ### To run:
+* clone this repo
 * navigate to the pomodoro_timer directory  
 * `$ ruby pomodoro.rb`
 
