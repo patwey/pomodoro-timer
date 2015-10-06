@@ -1,5 +1,5 @@
 # Pomodoro Timer
-A simple pomodoro timer for the command line (currently just OSX).
+A simple pomodoro timer for the command line (currently OSX only).
 
 "Requirements:"
 * install ruby
