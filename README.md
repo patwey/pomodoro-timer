@@ -10,6 +10,7 @@ A simple pomodoro timer for the command line (currently OSX only).
 * `$ ruby pomodoro.rb`
 
 ### TODO:
+* what if I press return while the timer is running? O_o
 * does 4 pomodoros = 1 long break?
 * the cursor flashing hurts my eyes
 * what if I have a PC?
